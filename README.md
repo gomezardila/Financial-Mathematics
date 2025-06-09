@@ -11,7 +11,7 @@ El propósito es:
 - Mostrar implementaciones computacionales de los conceptos.
 - Practicar resolución de problemas con lenguajes aplicados.
 
-## Contenidos
+## 📚 Contenidos
 
 - Interés simple y compuesto
 - Anualidades
@@ -24,7 +24,7 @@ El propósito es:
 - Rentas perpetuas
 - Ejercicios tipo examen con soluciones detalladas
 
-## Tecnologías
+## 🛠 Tecnologías
 
 - Python 3.x
 - R (versión ≥ 4.0)
