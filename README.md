@@ -4,14 +4,14 @@
 
 Este repositorio contiene una colección de ejercicios resueltos del **Examen FM (Financial Mathematics)** de la **Society of Actuaries (SOA)**, con soluciones implementadas en **Python** y **R**. Es una guía de estudio para candidatos que se preparan para el examen, con enfoques teóricos y prácticos.
 
-## 🧠 Objetivo
+## Objetivo
 
 El propósito es:
 - Reforzar los conceptos teóricos del examen FM.
 - Mostrar implementaciones computacionales de los conceptos.
 - Practicar resolución de problemas con lenguajes aplicados.
 
-## 📚 Contenidos
+## Contenidos
 
 - Interés simple y compuesto
 - Anualidades
@@ -24,7 +24,7 @@ El propósito es:
 - Rentas perpetuas
 - Ejercicios tipo examen con soluciones detalladas
 
-## 🛠 Tecnologías
+## Tecnologías
 
 - Python 3.x
 - R (versión ≥ 4.0)
@@ -32,7 +32,7 @@ El propósito es:
   - Python: `numpy`, `pandas`, `matplotlib`, `sympy`
   - R: `tidyverse`, `ggplot2`, `financial`
 
-## 📜 Licencia
+## Licencia
 
 Este proyecto se distribuye bajo la licencia MIT.
 
